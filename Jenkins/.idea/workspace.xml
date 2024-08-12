@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="20ff4675-11c5-4ad6-895b-37c7ea42d71a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../API/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../API/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../API/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../API/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HRMBatch19/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HRMBatch19/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HRMBatch19/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HRMBatch19/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Logic building/Logic building.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleiumBasic/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleiumBasic/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleiumBasic/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleiumBasic/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleiumBasic/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleiumBasic/screenshot/mistake.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleiumBasic/src/test/java/class10/jsExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleiumBasic/src/test/resources/config/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logicBulding/src/main/java/org/syntax/numberSwipe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logicBulding/src/main/java/org/syntax/reverseNumber.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2kZbkXkLfIZIKQUSEvpnAKfvu83" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/AarAl/IdeaProjects/Jenkins/src/Main.java"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Jenkins" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Jenkins" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-11.0.22-corretto-11.0.22-4caba194b151-868cef46" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20ff4675-11c5-4ad6-895b-37c7ea42d71a" name="Changes" comment="" />
+      <created>1723494194750</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723494194750</updated>
+    </task>
+    <servers />
+  </component>
+</project>
